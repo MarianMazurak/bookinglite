@@ -1,0 +1,1 @@
+2018-09-16 20:15:55,358 ERROR com.softserve.edu.bookinglite.exception.handler.ControllerExceptionHandler [http-nio-8080-exec-1] Exception: org.springframework.web.util.NestedServletException Message: Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError Request: ServletWebRequest: uri=/api/login;client=127.0.0.1
